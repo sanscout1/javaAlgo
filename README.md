@@ -14,3 +14,7 @@
 2. push pull (pull request로)
 
 ``git push -u origin main``<br>``git pull origin main``
+
+
+### pull request 참고
+> https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
