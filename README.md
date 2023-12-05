@@ -7,12 +7,10 @@
 
 
 1. 원격저장소 연결
-git remote add origin https://github.com/sanscout1/javaAlgo.git
-<br>
-git branch -M main 
-<br>
 
-2. push pull (pull request로)
-git push -u origin main
+  ``git remote add origin https://github.com/sanscout1/javaAlgo.git``<br>
+   ``git branch -M main``
 <br>
-git pull origin main
+2. push pull (pull request로)
+
+``git push -u origin main``<br>``git pull origin main``
