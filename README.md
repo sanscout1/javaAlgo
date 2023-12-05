@@ -6,6 +6,10 @@
 ### 규칙3) 백준 홈페이지 문제번호로 커밋 메세지 남길 것
 
 
+### 목표 : 1) 알고리즘 2) git  
+
+> https://learngitbranching.js.org/?locale=ko
+
 1. 원격저장소 연결
 
   ``git remote add origin https://github.com/sanscout1/javaAlgo.git``<br>
