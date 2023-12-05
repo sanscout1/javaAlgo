@@ -8,6 +8,6 @@
 
 git remote add origin https://github.com/sanscout1/javaAlgo.git
 <br>
-git remote get-url origin # get-url => origin이라는 저장소에 연결된 주소
+git branch -M main 
 <br>
-git push origin main # 원격에 있는 것을 업데이트하는 것
+git push -u origin main origin
