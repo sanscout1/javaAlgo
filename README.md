@@ -6,10 +6,13 @@
 ### 규칙3) 백준 홈페이지 문제번호로 커밋 메세지 남길 것
 
 
+1. 원격저장소 연결
 git remote add origin https://github.com/sanscout1/javaAlgo.git
 <br>
 git branch -M main 
 <br>
-git push -u origin main origin
+
+2. push pull (pull request로)
+git push -u origin main
 <br>
 git pull origin main
