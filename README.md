@@ -11,3 +11,5 @@ git remote add origin https://github.com/sanscout1/javaAlgo.git
 git branch -M main 
 <br>
 git push -u origin main origin
+<br>
+git pull origin master
