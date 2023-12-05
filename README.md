@@ -18,3 +18,7 @@
 
 ### pull request 참고
 > https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
+
+
+### intellij .gitignore 참고
+> https://velog.io/@sunyoung1542/Git-workspace.xml%EC%9D%84-ignore%ED%95%98%EC%A7%80-%EC%95%8A%EC%95%84%EC%84%9C-merge%ED%95%98%EB%A0%A4%EA%B3%A0-%ED%95%A0-%EB%95%8C-%EC%B6%A9%EB%8F%8C%EC%9D%B4-%EB%82%9C%EB%8B%A4
