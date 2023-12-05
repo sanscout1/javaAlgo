@@ -12,4 +12,4 @@ git branch -M main
 <br>
 git push -u origin main origin
 <br>
-git pull origin master
+git pull origin main
