@@ -19,6 +19,41 @@
 
 ``git push -u origin main``<br>``git pull origin main``
 
+<br>
+
+3. clone
+
+> https://velog.io/@backtony/Git-fork-pull-request-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0
+
+``git clone https://github.com/sanscout1/javaAlgo.git``
+
+원격 저장소 연결 확인
+
+``git remote -v``
+
+4. branch
+
+``git checkout -b 별명``
+``git push [remote 별칭] [브랜치명]``
+
+
+## merge 및 브랜치 제거
+
+### master로 이동
+``git checkout master``
+
+### upstream 동기화
+``git pull [원본 저장소] [브랜치명]``
+<br>
+``git pull upstream master``
+
+### origin에 반영
+``git push origin master``
+
+### 로컬 브랜치 삭제
+``git branch -d develop``
+### 원격 브랜치 저장소도 삭제하고 싶은 경우
+``git push origin --delete [브랜치명] ``
 
 ### pull request 참고
 > https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
