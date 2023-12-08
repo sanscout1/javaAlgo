@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="aacccc2f-6447-4a05-abb8-762e2eb904e7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoHRiver/brute01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/brute01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +38,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/xioix/Desktop/java/AlgoHR"
+    "last_opened_file_path": "C:/Users/xioix/Desktop/java/SinJava"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.brute01">
+  <component name="RunManager" selected="Application.brute03">
     <configuration name="algo111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algoHRiver.algo111" />
       <module name="algoHR" />
@@ -69,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoHRiver.main08" />
+    <configuration name="brute03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoHRiver.brute03" />
       <module name="algoHR" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="math03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoHRiver.math03" />
+    <configuration name="main08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoHRiver.main08" />
       <module name="algoHR" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.brute03" />
         <item itemvalue="Application.brute01" />
         <item itemvalue="Application.main08" />
         <item itemvalue="Application.math07" />
         <item itemvalue="Application.algo111" />
-        <item itemvalue="Application.math03" />
       </list>
     </recent_temporary>
   </component>
