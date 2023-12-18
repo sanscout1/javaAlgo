@@ -4,4 +4,4 @@ description: 우당탕탕
 
 # HRiver 의 알고리즘
 
-백준부터해서 정리할 예정
+- [`알고리즘 풀이`](https://github.com/sanscout1/javaAlgo/blob/main/src/algohriver.md)
