@@ -1,4 +1,4 @@
-package algoHRiver.Baekjoon;
+package algoHRiver.Baekjoon.Remote1107;
 
 // https://www.acmicpc.net/problem/1107
 
