@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [HRiver 의 알고리즘](README.md)
