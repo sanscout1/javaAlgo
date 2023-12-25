@@ -12,7 +12,7 @@ public class P1107 {
 
 
         int endChannel = in.nextInt();
-        int anslength=0;
+        int anslength = 0;
         boolean flag = true;
         boolean[] brokenButtons = new boolean[10];
 
@@ -23,18 +23,17 @@ public class P1107 {
 
         int buttonClick = Math.abs(endChannel - 100);
 
-        for (int i = 0 ; i < 1000001; i++) {
+        for (int i = 0; i < 1000001; i++) {
 
             int tmpNum = i;
             flag = true;
-            anslength = 0;           //여기로 이동
+            anslength = 0;
             if (tmpNum == 0) {
                 if (!brokenButtons[0]) {
                     anslength = 1;
                 }
             }
             // anslength = 0;   //1222 11:06 --> 여기서 초기화 하는 거 때문에 오류발생, 초기화 지점을 잘 생각하자
-
             while (tmpNum > 0) {
                 if (brokenButtons[tmpNum % 10]) {
                     flag = false;
@@ -50,27 +49,11 @@ public class P1107 {
                         if (buttonClick > anslength + tmpNum) {
                             buttonClick = anslength + tmpNum;
                         }
-//                    if (endChannel < 100) {
-//                        tmpNum = Math.abs((endChannel - i));
-//                    } else {
-//                    tmpNum = Math.abs(endChannel - tmpNum);
-//                    }
-//                    if (buttonClick > tmpNum) {
-//                        anslength = 0;
-//                        buttonClick = tmpNum;
-//                        while (i > 0) {
-//                            i /= 10;
-//                            anslength++;
-//                        }
-//
-//                    }
                     }
-
                 }
             }
         }
         System.out.println(buttonClick);
-
 
 
 //        int buttonClick = 1000000;
