@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="aacccc2f-6447-4a05-abb8-762e2eb904e7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/calendar6064/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/calendar6064/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algohriver.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/algohriver.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,15 +34,15 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/xioix/Desktop/java/AlgoHR&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/xioix/Desktop/java/AlgoHR"
   }
-}</component>
-  <component name="RunManager" selected="Application.P1748">
+}]]></component>
+  <component name="RunManager" selected="Application.P9095">
     <configuration name="P1107" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algoHRiver.Baekjoon.Remote1107.P1107" />
       <module name="algoHR" />
@@ -84,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="brute01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoHRiver.brute01" />
+    <configuration name="P9095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoHRiver.Baekjoon.plus9095.P9095" />
       <module name="algoHR" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algoHRiver.*" />
+          <option name="PATTERN" value="algoHRiver.Baekjoon.plus9095.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P9095" />
         <item itemvalue="Application.P1748" />
         <item itemvalue="Application.P6064" />
         <item itemvalue="Application.P1107" />
         <item itemvalue="Application.brute03" />
-        <item itemvalue="Application.brute01" />
       </list>
     </recent_temporary>
   </component>
