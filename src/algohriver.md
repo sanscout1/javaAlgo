@@ -14,3 +14,7 @@
 - 수 이어 쓰기 1 1748
   - [`코드`](algoHRiver%2FBaekjoon%2Fnumber1748%2FP1748.java)
   - [`풀이`](algoHRiver%2FBaekjoon%2Fnumber1748%2FREADME.md)
+
+- 1 2 3 더하기
+  - [`코드`](algoHRiver%2FBaekjoon%2Fplus9095%2FP9095.java)
+  - [`풀이`](algoHRiver%2FBaekjoon%2Fplus9095%2FREADME.md)
