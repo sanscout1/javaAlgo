@@ -1,3 +1,5 @@
+https://www.acmicpc.net/problem/1748
+
 ## 1차 풀이
 ```agsl
 public static void main(String[] args) {

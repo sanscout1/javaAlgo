@@ -15,6 +15,9 @@
   - [`코드`](algoHRiver%2FBaekjoon%2Fnumber1748%2FP1748.java)
   - [`풀이`](algoHRiver%2FBaekjoon%2Fnumber1748%2FREADME.md)
 
-- 1 2 3 더하기
+- 1 2 3 더하기 9095
   - [`코드`](algoHRiver%2FBaekjoon%2Fplus9095%2FP9095.java)
   - [`풀이`](algoHRiver%2FBaekjoon%2Fplus9095%2FREADME.md)
+- N과 M 15649
+  - [`코드`](algoHRiver%2FBaekjoon%2FNM15649%2FP15649.java)
+  - [`풀이`](algoHRiver%2FBaekjoon%2FNM15649%2FREADME.md)
