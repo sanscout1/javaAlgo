@@ -1,4 +1,4 @@
-package algoHRiver.Baekjoon.number1748;
+package algoHRiver.Baekjoon.BruteForce.number1748;
 
 import java.util.Scanner;
 

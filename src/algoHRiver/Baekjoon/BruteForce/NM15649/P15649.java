@@ -1,6 +1,5 @@
-package algoHRiver.Baekjoon.NM15649;
+package algoHRiver.Baekjoon.BruteForce.NM15649;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 //https://www.acmicpc.net/problem/15649

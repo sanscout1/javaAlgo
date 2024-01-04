@@ -1,4 +1,4 @@
-package algoHRiver.Baekjoon.calendar6064;
+package algoHRiver.Baekjoon.BruteForce.calendar6064;
 
 import java.util.Scanner;
 

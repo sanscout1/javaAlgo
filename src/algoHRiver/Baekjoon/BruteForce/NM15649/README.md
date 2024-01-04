@@ -1,7 +1,7 @@
 # 1차 풀이
 
 ```agsl
-package algoHRiver.Baekjoon.NM15649;
+package algoHRiver.Baekjoon.BruteForce.NM15649;
 
 import java.util.Arrays;
 import java.util.Scanner;

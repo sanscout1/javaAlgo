@@ -14,7 +14,7 @@ if(numArray[index-1]<numArray[index]) {
   - if 문 조건에 해당 하지 않으면 index++; 이 동작하지 않기 때문이다. 이런 실수를 없애자
 
 ```agsl
-package algoHRiver.Baekjoon.NM15650;
+package algoHRiver.Baekjoon.BruteForce.NM15650;
 
 import java.util.Scanner;
 

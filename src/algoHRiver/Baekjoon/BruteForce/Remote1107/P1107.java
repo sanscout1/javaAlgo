@@ -1,8 +1,7 @@
-package algoHRiver.Baekjoon.Remote1107;
+package algoHRiver.Baekjoon.BruteForce.Remote1107;
 
 // https://www.acmicpc.net/problem/1107
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class P1107 {
