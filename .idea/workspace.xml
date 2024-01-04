@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="aacccc2f-6447-4a05-abb8-762e2eb904e7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/NM15649/P15649.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/NM15649/P15649.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/NM15649/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/NM15649/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algohriver.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/algohriver.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,16 +40,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/xioix/Desktop/java/AlgoHR"
+    "last_opened_file_path": "C:/Users/xioix/Desktop/java/SinJava"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P15649">
-    <configuration name="P1107" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoHRiver.Baekjoon.Remote1107.P1107" />
+  <component name="RunManager" selected="Application.P15650">
+    <configuration name="P15649" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoHRiver.Baekjoon.NM15649.P15649" />
       <module name="algoHR" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algoHRiver.Baekjoon.Remote1107.*" />
+          <option name="PATTERN" value="algoHRiver.Baekjoon.NM15649.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P15649" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoHRiver.Baekjoon.NM15649.P15649" />
+    <configuration name="P15650" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoHRiver.Baekjoon.NM15650.P15650" />
       <module name="algoHR" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algoHRiver.Baekjoon.NM15649.*" />
+          <option name="PATTERN" value="algoHRiver.Baekjoon.NM15650.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P15650" />
         <item itemvalue="Application.P15649" />
         <item itemvalue="Application.P9095" />
         <item itemvalue="Application.P1748" />
         <item itemvalue="Application.P6064" />
-        <item itemvalue="Application.P1107" />
       </list>
     </recent_temporary>
   </component>
