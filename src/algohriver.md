@@ -3,14 +3,12 @@
 ### 백준 문제 풀이
 
 - 리모컨 1107
-    - [`코드`](https://github.com/sanscout1/javaAlgo/blob/main/src/algoHRiver/Baekjoon/Remote1107/P1107.java)
-    - [`풀이`](https://github.com/sanscout1/javaAlgo/tree/main/src/algoHRiver/Baekjoon/Remote1107)
-
+    - [`코드`](algoHRiver%2FBaekjoon%2FBruteForce%2FRemote1107%2FP1107.java)
+    - [`풀이`](algoHRiver%2FBaekjoon%2FBruteForce%2FRemote1107%2FREADME.md)
 
 - 카잉달력 6064
-  - [`코드`](https://github.com/sanscout1/javaAlgo/blob/main/src/algoHRiver/Baekjoon/calendar6064/P6064.java)
-  - [`풀이`](https://github.com/sanscout1/javaAlgo/tree/main/src/algoHRiver/Baekjoon/calendar6064/README.md)
-
+  - [`코드`](algoHRiver%2FBaekjoon%2FBruteForce%2Fcalendar6064%2FP6064.java)
+  - [`풀이`](algoHRiver%2FBaekjoon%2FBruteForce%2Fcalendar6064%2FREADME.md)
 - 수 이어 쓰기 1 1748
   - [`코드`](algoHRiver%2FBaekjoon%2Fnumber1748%2FP1748.java)
   - [`풀이`](algoHRiver%2FBaekjoon%2Fnumber1748%2FREADME.md)
