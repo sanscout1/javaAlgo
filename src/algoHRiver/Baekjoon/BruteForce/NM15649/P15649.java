@@ -20,17 +20,17 @@ public class P15649 {
         if(index==m){
 
             for (int i = 0; i < index; i++) {
-                System.out.print(tmpNum[i]+" ");
+                System.out.print(tmpNum[i]+" "); // 1,2,3,4  index==4
             }
             System.out.println();
         }
         else if(index<m){
             for (int i = 1; i <= n; i++) {
-                if(tmpBool[i]) continue;
-                tmpBool[i]=true;
-                tmpNum[index]=i;
+                if(tmpBool[i]) continue;  // 어 1 이 true네? 하고 넘어가 저장안하고
+                tmpBool[i]=true; // true 면  1
+                tmpNum[index]=i;  // 1,2,3,4  index==4 1, 1
                 index++;
-                recur(index,n,m);
+                recur(index,n,m);   // 여기서 저장 못하게 할려고 --> 중복이 안되게
                 index--;
                 tmpBool[i]=false;
             }
