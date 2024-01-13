@@ -22,3 +22,12 @@
 - N과 M 15650
   - [`코드`](algoHRiver%2FBaekjoon%2FBruteForce%2FNM15650%2FP15650.java)
   - [`풀이`](algoHRiver%2FBaekjoon%2FBruteForce%2FNM15650%2FREADME.md)
+- N과 M 15651
+  - [`코드`](algoHRiver%2FBaekjoon%2FBruteForce%2FNM15651%2FP15651.java)
+  - [`풀이`](algoHRiver%2FBaekjoon%2FBruteForce%2FNM15651%2FREADME.md)
+
+- N과 M 15652
+  - [`코드`](algoHRiver%2FBaekjoon%2FBruteForce%2FNM15652%2FP15652.java)
+  - [`풀이`](algoHRiver%2FBaekjoon%2FBruteForce%2FNM15652%2FREADME.md)
+
+
