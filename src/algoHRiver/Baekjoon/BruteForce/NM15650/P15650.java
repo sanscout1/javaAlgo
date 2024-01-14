@@ -17,14 +17,14 @@ public class P15650 {
         }
         else{
             for (int i = 1; i <= n; i++) {
-                if(boolArray[index]) {continue;}
+                if(boolArray[i]) {continue;}
 
                     numArray[index] = i;
-                    boolArray[index] = true;
+                    boolArray[i] = true;
                 if(numArray[index-1]<numArray[index]) {
                     recur(index+1, n, m);
                 }
-                    boolArray[index] = false;
+                    boolArray[i] = false;
                     numArray[index] = 0;
 
             }

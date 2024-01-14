@@ -1,7 +1,7 @@
 package algoHRiver.Baekjoon.BruteForce.NM15652;
 
 import java.util.Scanner;
-
+// https://www.acmicpc.net/problem/15652
 public class P15652 {
     static int[] tmpArray = new int[10];
     static boolean[] tmpBoolArray = new boolean[10];
