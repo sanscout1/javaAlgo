@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="aacccc2f-6447-4a05-abb8-762e2eb904e7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algohriver.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/algohriver.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +44,7 @@
     "last_opened_file_path": "C:/Users/xioix/Desktop/java/AlgoHR"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.P15655">
-    <configuration name="P15650" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoHRiver.Baekjoon.BruteForce.NM15650.P15650" />
-      <module name="algoHR" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algoHRiver.Baekjoon.BruteForce.NM15650.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.P15656">
     <configuration name="P15651" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algoHRiver.Baekjoon.BruteForce.NM15651.P15651" />
       <module name="algoHR" />
@@ -111,8 +97,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P15656" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoHRiver.Baekjoon.BruteForce.NM15656.P15656" />
+      <module name="algoHR" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algoHRiver.Baekjoon.BruteForce.NM15656.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.P15656" />
         <item itemvalue="애플리케이션.P15655" />
         <item itemvalue="애플리케이션.P15654" />
         <item itemvalue="애플리케이션.P15652" />
