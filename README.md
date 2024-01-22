@@ -1,6 +1,3 @@
----
-description: 우당탕탕
----
 
 # HRiver 의 알고리즘
 
