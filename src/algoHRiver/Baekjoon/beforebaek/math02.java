@@ -1,6 +1,6 @@
 //https://www.acmicpc.net/problem/1037
 
-package algoHRiver;
+package algoHRiver.Baekjoon.beforebaek;
 
 import java.util.Scanner;
 public class math02 {

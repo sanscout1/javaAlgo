@@ -1,4 +1,4 @@
-package algoHRiver;
+package algoHRiver.Baekjoon.beforebaek;
 //https://www.acmicpc.net/problem/2309
 import java.util.*;
 public class brute01 {

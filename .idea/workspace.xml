@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aacccc2f-6447-4a05-abb8-762e2eb904e7" name="Changes" comment="" />
+    <list default="true" id="aacccc2f-6447-4a05-abb8-762e2eb904e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/NMK18290/P18290.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/NMK18290/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoHRiver/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoHRiver/brute01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/brute01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoHRiver/brute02_re.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/brute02_re.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoHRiver/brute03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/brute03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoHRiver/main08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/main08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoHRiver/math01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/math01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoHRiver/math02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/math02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoHRiver/math03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/math03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoHRiver/math04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/math04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoHRiver/math05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/math05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoHRiver/math06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/math06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoHRiver/math07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/math07.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,20 +58,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/xioix/Desktop/java/AlgoHR&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.P15657">
-    <configuration name="P15654" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoHRiver.Baekjoon.BruteForce.NM15654.P15654" />
-      <module name="algoHR" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algoHRiver.Baekjoon.BruteForce.NM15654.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.P18290">
     <configuration name="P15655" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algoHRiver.Baekjoon.BruteForce.NM15655.P15655" />
       <module name="algoHR" />
@@ -95,12 +98,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P18290" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoHRiver.Baekjoon.BruteForce.NMK18290.P18290" />
+      <module name="algoHR" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algoHRiver.Baekjoon.BruteForce.NMK18290.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algoHRiver.test" />
       <module name="algoHR" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algoHRiver.*" />
+          <option name="PATTERN" value="algoHRiver.Baekjoon.beforebaek.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.P18290" />
         <item itemvalue="애플리케이션.P15657" />
         <item itemvalue="애플리케이션.test" />
         <item itemvalue="애플리케이션.P15656" />
         <item itemvalue="애플리케이션.P15655" />
-        <item itemvalue="애플리케이션.P15654" />
       </list>
     </recent_temporary>
   </component>

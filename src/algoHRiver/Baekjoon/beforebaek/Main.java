@@ -1,6 +1,6 @@
 //https://jungol.co.kr/problem/1291?cursor=eyJwcm9ibGVtc2V0Ijo2LCJmaWVsZCI6MCwiaWR4IjowfQ%3D%3D
 
-package algoHRiver;
+package algoHRiver.Baekjoon.beforebaek;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package algoHRiver;
+package algoHRiver.Baekjoon.beforebaek;
 import java.util.*;
 
 //https://www.acmicpc.net/problem/2609

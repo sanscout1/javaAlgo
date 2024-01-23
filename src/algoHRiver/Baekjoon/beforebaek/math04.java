@@ -2,7 +2,7 @@
 //https://www.acmicpc.net/problem/17425
 //https://m.blog.naver.com/ka28/221850826909
 
-package algoHRiver;
+package algoHRiver.Baekjoon.beforebaek;
 
 import java.util.*;
 import java.io.*;

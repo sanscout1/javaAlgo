@@ -1,4 +1,4 @@
-package algoHRiver;
+package algoHRiver.Baekjoon.beforebaek;
 // https://www.acmicpc.net/problem/3085
 
 //연구가 필요하다

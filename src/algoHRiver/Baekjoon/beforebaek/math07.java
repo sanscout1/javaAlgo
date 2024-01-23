@@ -1,4 +1,4 @@
-package algoHRiver;
+package algoHRiver.Baekjoon.beforebaek;
 
 import java.util.*;
 public class math07 {

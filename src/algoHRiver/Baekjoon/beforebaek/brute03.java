@@ -1,4 +1,4 @@
-package algoHRiver;
+package algoHRiver.Baekjoon.beforebaek;
 //https://gyuwon95.tistory.com/48
 import java.io.*;
 import java.util.StringTokenizer;
