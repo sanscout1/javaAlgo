@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aacccc2f-6447-4a05-abb8-762e2eb904e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/NMK18290/P18290.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/NMK18290/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoHRiver/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoHRiver/brute01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/brute01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoHRiver/brute02_re.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/brute02_re.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoHRiver/brute03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/brute03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoHRiver/main08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/main08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoHRiver/math01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/math01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoHRiver/math02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/math02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoHRiver/math03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/math03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoHRiver/math04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/math04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoHRiver/math05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/math05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoHRiver/math06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/math06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoHRiver/math07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/beforebaek/math07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/NMK18290/P18290.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/NMK18290/P18290.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/NMK18290/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/NMK18290/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
