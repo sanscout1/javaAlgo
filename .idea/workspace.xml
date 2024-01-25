@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="aacccc2f-6447-4a05-abb8-762e2eb904e7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/NMK18290/P18290.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/NMK18290/P18290.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/NMK18290/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/NMK18290/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algohriver.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/algohriver.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,20 +45,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/xioix/Desktop/java/AlgoHR&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.P18290">
-    <configuration name="P15655" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoHRiver.Baekjoon.BruteForce.NM15655.P15655" />
-      <module name="algoHR" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algoHRiver.Baekjoon.BruteForce.NM15655.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.P1759">
     <configuration name="P15656" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algoHRiver.Baekjoon.BruteForce.NM15656.P15656" />
       <module name="algoHR" />
@@ -79,6 +65,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algoHRiver.Baekjoon.BruteForce.NM15657.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1759" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoHRiver.Baekjoon.BruteForce.pwd1759.P1759" />
+      <module name="algoHR" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algoHRiver.Baekjoon.BruteForce.pwd1759.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.P1759" />
         <item itemvalue="애플리케이션.P18290" />
         <item itemvalue="애플리케이션.P15657" />
         <item itemvalue="애플리케이션.test" />
         <item itemvalue="애플리케이션.P15656" />
-        <item itemvalue="애플리케이션.P15655" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +156,15 @@
     </option>
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/pwd1759/P1759.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="i" />
