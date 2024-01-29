@@ -46,4 +46,7 @@
 - N과 M 과 K 1759
   - [`코드`](algoHRiver%2FBaekjoon%2FBruteForce%2Fpwd1759%2FP1759.java)
   - [`풀이`](algoHRiver%2FBaekjoon%2FBruteForce%2Fpwd1759%2FREADME.md)
+- 퇴사 14501
+  - [`코드`](algoHRiver%2FBaekjoon%2FBruteForce%2FP14501%2FP14501.java)
+  - [`풀이`](algoHRiver%2FBaekjoon%2FBruteForce%2FP14501%2FREADME.md)
 
