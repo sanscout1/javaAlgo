@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="aacccc2f-6447-4a05-abb8-762e2eb904e7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/pwd1759/P1759.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/pwd1759/P1759.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algohriver.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/algohriver.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/P14501/P14501.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/P14501/P14501.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/P14501/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/P14501/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,45 +157,6 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/P14501/P14501.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/P14501/P14501.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/P14501/P14501.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/P14501/P14501.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/P14501/P14501.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/P14501/P14501.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/P14501/P14501.java</url>
-          <line>53</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="i" />
