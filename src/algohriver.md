@@ -49,4 +49,6 @@
 - 퇴사 14501
   - [`코드`](algoHRiver%2FBaekjoon%2FBruteForce%2FP14501%2FP14501.java)
   - [`풀이`](algoHRiver%2FBaekjoon%2FBruteForce%2FP14501%2FREADME.md)
-
+- 스타트와 링크 14889
+  - [`코드`](algoHRiver%2FBaekjoon%2FBruteForce%2FP14889%2FP14889.java)
+  - [`풀이`](algoHRiver%2FBaekjoon%2FBruteForce%2FP14889%2FREADME.md)
