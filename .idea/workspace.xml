@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="aacccc2f-6447-4a05-abb8-762e2eb904e7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algohriver.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/algohriver.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/P14889/P14889.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/P14889/P14889.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/P14889/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/P14889/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,6 +133,10 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -156,25 +161,6 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/P14889/P14889.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/P14889/P14889.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algoHRiver/Baekjoon/BruteForce/P14889/P14889.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="i" />
